@@ -1,6 +1,6 @@
 <b>Demo:</b><br><br>
 <div style="text-align: center;">
-<img style="width: 500px" src="https://raw.githubusercontent.com/WeansHHN/FPSDisplay-For-Project-Theos/main/demofps.jpg">
+<img style="width: 500px" src="https://raw.githubusercontent.com/WeansHHN/Checkbox-Custom-HHN/main/democheckbox.jpg">
 </div>
 
 <br>
@@ -54,6 +54,6 @@ myLabel1.shadowOffset = CGSizeMake(1.0,1.0);
 ### Credits:
 * Me (HHNiOS)
 * Collect
-### [Download](https://github.com/WeansHHN/FPSDisplay-For-Project-Theos/releases/tag/FPSDisplay)
+### [Download](https://github.com/WeansHHN/Checkbox-Custom-HHN/releases/tag/Checkbox)
 <br>
 <br>
