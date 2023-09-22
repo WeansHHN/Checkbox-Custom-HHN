@@ -54,6 +54,6 @@ myLabel1.shadowOffset = CGSizeMake(1.0,1.0);
 ### Credits:
 * Me (HHNiOS)
 * Collect
-### [Download](https://github.com/WeansHHN/Checkbox-Custom-HHN/releases/tag/Checkbox)
+### [Download](https://github.com/WeansHHN/Checkbox-Custom-HHN/archive/refs/heads/main.zip)
 <br>
 <br>
